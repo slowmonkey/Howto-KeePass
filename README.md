@@ -1,6 +1,9 @@
 # Howto-KeePass
 This document goes through how to set up kee pass on google drive.
 
+## What is KeePass
+Keepass is a light-weight and easy-to-use password manager.
+
 ## Setup
 1. Create a Password folder on your Google Drive
 2. Install Google Drive on the machine you wish to use KeePass on. (My advise is to sync only the required folders. For me I just sync the Password folder and leave everything else unsync'd)
