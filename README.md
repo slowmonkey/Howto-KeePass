@@ -7,7 +7,7 @@ Keepass is a light-weight and easy-to-use password manager.
 ## Setup
 1. Create a Password folder on your Google Drive
 2. Install Google Drive on the machine you wish to use KeePass on. (My advise is to sync only the required folders. For me I just sync the Password folder and leave everything else unsync'd)
-3. Go to: http://keepass.info/ and download the latest Professional Edition Portable KeePass zip file.
+3. Go to: http://keepass.info/ and download the latest 2.x version KeePass zip file.
 4. Extract the KeePass zip file into your Google Drive Password folder.
 5. Create a link to your taskbar to the KeePass.exe in your GoogleDrive
 6. Create a new database, I just use myName.kbdx, on the Google Drive Password folder.
@@ -15,30 +15,15 @@ Keepass is a light-weight and easy-to-use password manager.
 You now have KeePass setup! It's as easy as that.
 
 ## Plugins
-Using KeePass by itself is fine but to have it integrated into your browser is what makes a password manager useful. To do so you can use plugins. Plugin's help you integrate and short circuit many operations you would normally have to do with lots of searching, copy and pasting.
+Some useful plugins that I use.
 
 Many more plugins can be found at: http://keepass.info/plugins.html
-
-### Plugins - KeePassHttp
-KeePassHttp provides a secure means of exposing KeePass entries via HTTP for clients to consume.
-
-1. Download KeePassHttp.plgx from: https://github.com/pfn/keepasshttp/
-2. Place it in Google Drive/Passwords/KeePassx.x.x/plugins folder
-3. Enable the ChromeIPass extension on Chrome.
-
-#### Plugins - KeePassHttp USAGE
-
-Stay tuned.
 
 ### Plugins - KeeAgent
 The KeeAgent plugin adds SSH agent support to KeePass. It emulates Pageant.
 
 1. Download KeeAgent.plgx from: http://lechnology.com/software/keeagent/
 2. Place it in Google Drive/Passwords/KeePassx.x.x/plugins folder
-
-#### Plugins - KeeAgent USAGE
-
-Stay tuned.
 
 
 ## Synchronisation Workflow
